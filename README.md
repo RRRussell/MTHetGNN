@@ -1,5 +1,6 @@
 # MTHetGNN
-Multivariate time series forecasting using heterogeneous graph neural networks
+Multivariate time series forecasting using heterogeneous graph neural networks.
+
 This repository is the official implementation of [MTHetGNN: A heterogeneous graph embedding framework for multivariate time series forecasting](https://www.sciencedirect.com/science/article/abs/pii/S0167865521004396).
 
 ## Requirements
